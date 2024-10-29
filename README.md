@@ -1,6 +1,12 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/92bdb93f223f4f39c019dcca9967470d4efa73554a6c8f7b2703f23f83ae35f5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786233426b61446869593274304f445a784e546c6b4f585678596d55344e6e68346144466b6432746c4f4746684e6a597a5a5442715a435a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6c33563073354d56316b7564454d5039432f67697068792e676966">
-Hello, I am an Embedded Systems/ IOT Student And A Unity game developer by heart.<br>🔭 I’m currently working on my own game Called "Deadly Stuff".<br>🌱 I’m currently learning Android development and Embedded Systems<br>💬 Ask me about Unity C# ,Android Java<br>💬You can Reach me By souhail.smiriaa@gmail.com<br>⚡ Fun fact I am Weird
+    <p>Hello, I'm Souhail Smiri  & Game Developer & Cybersecurity Enthusiast by heart.<br>
+    <p>👋 Hello, I'm Souhail Smiri and I'm a software developer <br>
+    🎮 Game Developer & IOT & Cybersecurity Enthusiast<br>
+    🔍 Currently diving deep into cybersecurity with courses and CTFs<br>
+    💻 Ask me about game development, Unity, or IoT<br>
+    ✉️ Reach me at: <a href="mailto:souhail.smiriaa@gmail.com">souhail.smiriaa@gmail.com</a><br>
+    ⚡ Fun fact: I’m still weird... and I like it!</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Aspegic#4208) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/souhail.smiri.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glyphybois) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sousmiri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/NotAspegic) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Not_Aspegic) 
